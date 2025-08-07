@@ -1,4 +1,4 @@
-# ManagementEmployee
+# ManagementEmployees
 
 A backend project written in Go using [Fiber](https://github.com/gofiber/fiber) and [GORM](https://gorm.io/) that provides **authentication for admins** and **management functionality for employees**.
 
